@@ -1,0 +1,9 @@
+{
+  "name": "mini-shop",
+  "version": "1.0.0",
+  "description": "Kleiner Warenkorb als Übungsprojekt für den Claude Code Basiskurs",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}

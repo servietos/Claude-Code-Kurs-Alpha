@@ -1,0 +1,6 @@
+[
+  { "sku": "BK-001", "name": "Clean Code", "priceCents": 3499 },
+  { "sku": "BK-002", "name": "The Pragmatic Programmer", "priceCents": 4290 },
+  { "sku": "MG-010", "name": "Kaffeebecher Dev", "priceCents": 1250 },
+  { "sku": "ST-100", "name": "Sticker-Set", "priceCents": 399 }
+]
